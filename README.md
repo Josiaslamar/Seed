@@ -1,2 +1,2 @@
-# Seed
-Seed of Africa
+# media template
+
