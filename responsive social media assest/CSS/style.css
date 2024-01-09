@@ -175,7 +175,7 @@ main .container .left .profile {
     color: var(--color-primary);
 }
 .left .sidebar .active::before {
-    content: "";
+    content: '';
     display: block;
     width: 0.5rem;
     height: 100%;
@@ -210,10 +210,11 @@ main .container .left .profile {
     display: none;
 }
 .left .notification-popup::before {
-    content: "";
+    content: '';
+    display: block;
     width: 1.2rem;
     height: 1.2rem;
-    display: block;
+    
     background: var(--color-white);
     position: absolute;
     left: -0.6rem;
@@ -249,7 +250,7 @@ main .container .left .profile {
     overflow: hidden;
 }
 .middle .stories .story::before {
-    content: "";
+    content: '';
     display: block;
     width: 100%;
     height: 5rem;
